@@ -1,0 +1,32 @@
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: reading the config file
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 0 host: net20.utdallas.edu port: 3333
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 1 host: net21.utdallas.edu port: 3336
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 2 host: net22.utdallas.edu port: 4444
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 3 host: net23.utdallas.edu port: 3334
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 4 host: net24.utdallas.edu port: 5334
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 5 host: net25.utdallas.edu port: 5334
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 6 host: net26.utdallas.edu port: 5334
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 7 host: net27.utdallas.edu port: 5647
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 8 host: net28.utdallas.edu port: 5647
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 9 host: net29.utdallas.edu port: 6456
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 10 host: net30.utdallas.edu port: 8967
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: nodeID: 11 host: net31.utdallas.edu port: 9067
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: i: 0 nodeID: 1
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: i: 1 nodeID: 3
+Apr 28, 2013 2:37:12 PM tvp.TreeVotingProtocol readConfigFile
+INFO: i: 2 nodeID: 5
